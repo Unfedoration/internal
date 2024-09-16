@@ -1,5 +1,5 @@
 local lua_internal = Instance.new("ScreenGui", game.CoreGui)
-lua_internal.Name = "lua_internal"
+lua_internal.Name = "Sling Menu"
 lua_internal.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 local internal_base = Instance.new("Frame")
